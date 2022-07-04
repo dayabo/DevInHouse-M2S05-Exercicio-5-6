@@ -1,0 +1,15 @@
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\AtividaJaimeM2S5Exer5\bin\Debug\net6.0\AtividaJaimeM2S5Exer5.exe
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\AtividaJaimeM2S5Exer5\bin\Debug\net6.0\AtividaJaimeM2S5Exer5.deps.json
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\AtividaJaimeM2S5Exer5\bin\Debug\net6.0\AtividaJaimeM2S5Exer5.runtimeconfig.json
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\AtividaJaimeM2S5Exer5\bin\Debug\net6.0\AtividaJaimeM2S5Exer5.dll
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\AtividaJaimeM2S5Exer5\bin\Debug\net6.0\AtividaJaimeM2S5Exer5.pdb
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\AtividaJaimeM2S5Exer5\obj\Debug\net6.0\AtividaJaimeM2S5Exer5.csproj.AssemblyReference.cache
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\AtividaJaimeM2S5Exer5\obj\Debug\net6.0\AtividaJaimeM2S5Exer5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\AtividaJaimeM2S5Exer5\obj\Debug\net6.0\AtividaJaimeM2S5Exer5.AssemblyInfoInputs.cache
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\AtividaJaimeM2S5Exer5\obj\Debug\net6.0\AtividaJaimeM2S5Exer5.AssemblyInfo.cs
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\AtividaJaimeM2S5Exer5\obj\Debug\net6.0\AtividaJaimeM2S5Exer5.csproj.CoreCompileInputs.cache
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\AtividaJaimeM2S5Exer5\obj\Debug\net6.0\AtividaJaimeM2S5Exer5.dll
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\AtividaJaimeM2S5Exer5\obj\Debug\net6.0\refint\AtividaJaimeM2S5Exer5.dll
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\AtividaJaimeM2S5Exer5\obj\Debug\net6.0\AtividaJaimeM2S5Exer5.pdb
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\AtividaJaimeM2S5Exer5\obj\Debug\net6.0\AtividaJaimeM2S5Exer5.genruntimeconfig.cache
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\AtividaJaimeM2S5Exer5\obj\Debug\net6.0\ref\AtividaJaimeM2S5Exer5.dll
